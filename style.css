@@ -2,3 +2,9 @@ html, body {
     margin: 0;
     padding: 0;
 } 
+
+.back {
+    background-color: antiquewhite;
+    color: blueviolet;
+    border: 2px solid burlywood;
+}
