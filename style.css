@@ -7,4 +7,5 @@ html, body {
     background-color: antiquewhite;
     color: blueviolet;
     border: 2px solid burlywood;
+    font-weight: 100;
 }
